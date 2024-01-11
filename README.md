@@ -1,5 +1,6 @@
 # logic-work
 verilog打磚塊
+
 Input/Output unit:
 8x8 LED 矩陣，用來顯示遊戲畫面。下圖設定關卡後的初始畫面。
 
